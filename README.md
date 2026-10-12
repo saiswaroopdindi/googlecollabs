@@ -1,6 +1,6 @@
 Drive link for folder containing the video.
 
-https://drive.google.com/file/d/11dgqmAxn_sSbqEm3x8HdT8LWN3NCpF56/view?usp=sharing
+https://drive.google.com/drive/folders/1np9w4gA2mgTvSY1zLRiTQNo1Kacvsyox?usp=sharing
 
 Link to video1 -> collab1
 
